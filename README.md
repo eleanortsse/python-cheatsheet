@@ -3585,3 +3585,4 @@ Index
 Изменения в ветке branch1 - Commit 1/3
 Изменения в ветке branch1 - Commit 2/3
 Изменения в ветке branch1 - Commit 3/3
+1/3 изменения для комита в ветку branch1
