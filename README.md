@@ -4,7 +4,7 @@ Comprehensive Python Cheatsheet
 </sup>
 
 ![Monty Python](web/image_888.jpeg)
-
+#comment comment 
 
 Contents
 --------
@@ -3582,6 +3582,12 @@ Index
 * **Only available in the [PDF](https://transactions.sendowl.com/products/78175486/4422834F/view).**
 * **Ctrl+F / ⌘F is usually sufficient.**
 * **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
+<<<<<<< HEAD
 Изменения в ветке branch2 - Commit 1/3
 Изменения в ветке branch2 - Commit 2/3
 Изменения в ветке branch2 - Commit 3/3
+=======
+Изменения в ветке branch1 - Commit 1/3
+Изменения в ветке branch1 - Commit 2/3
+Изменения в ветке branch1 - Commit 3/3
+>>>>>>> branch1
