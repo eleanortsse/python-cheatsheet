@@ -3583,3 +3583,4 @@ Index
 * **Ctrl+F / ⌘F is usually sufficient.**
 * **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
 Изменения в ветке branch1 - Commit 1/3
+Изменения в ветке branch1 - Commit 2/3
